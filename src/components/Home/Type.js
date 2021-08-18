@@ -9,6 +9,7 @@ function Type() {
           "Developer",
           "JavaScript Developer",
           "Open Source Contributor",
+          "Men Dasturchiman",
         ],
         autoStart: true,
         loop: true,
